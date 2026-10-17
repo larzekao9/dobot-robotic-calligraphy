@@ -1,0 +1,244 @@
+syllable_es,output,reading,meaning,connotation,gender_hint,score
+a,阿,ā,prefijo afectuoso,neutral,u,70
+a,亚,yà,Asia / secundario,neutral,u,65
+e,艾,ài,artemisa,positive,u,75
+e,埃,āi,polvo / Egipto (埃及),neutral,u,65
+i,伊,yī,ese / ella,neutral,u,80
+i,依,yī,apoyarse / confiar,neutral,u,65
+o,奥,ào,profundo / misterioso,positive,u,80
+o,欧,ōu,Europa,neutral,u,70
+u,乌,wū,cuervo / negro,neutral,u,60
+u,吾,wú,yo (arcaico),neutral,u,65
+ba,巴,bā,anhelar / esperar,neutral,u,80
+ba,芭,bā,plátano / flor,positive,f,75
+be,贝,bèi,concha / tesoro,positive,u,80
+be,蓓,bèi,capullo de flor,positive,f,75
+bi,比,bǐ,comparar,neutral,u,80
+bi,碧,bì,jade verde,positive,u,75
+bo,博,bó,vasto / erudito,positive,u,85
+bo,波,bō,ola,neutral,u,75
+bo,勃,bó,vigoroso,positive,u,50
+bu,布,bù,tela,neutral,u,80
+bu,步,bù,paso,neutral,u,70
+ka,卡,kǎ,tarjeta,neutral,u,75
+ka,嘉,jiā,excelente / elogiar,positive,u,80
+ke,凯,kǎi,triunfal,positive,u,85
+ke,克,kè,vencer,positive,u,75
+ki,基,jī,base / cimiento,positive,u,80
+ki,奇,qí,extraordinario,positive,u,70
+ko,科,kē,ciencia / disciplina,positive,u,80
+ko,柯,kē,rama,neutral,u,65
+ku,库,kù,almacén,neutral,u,75
+ku,酷,kù,cruel / genial,neutral,u,55
+ku,苦,kǔ,amargo / sufrimiento,avoid,u,99
+da,达,dá,alcanzar / lograr,positive,u,85
+da,大,dà,grande,positive,u,75
+de,德,dé,virtud,positive,m,90
+de,得,dé,obtener,positive,u,70
+di,迪,dí,guiar / iluminar,positive,u,80
+di,蒂,dì,tallo de la flor,positive,f,75
+di,迭,dié,alternar,neutral,u,40
+di,敌,dí,enemigo,avoid,u,99
+do,多,duō,mucho / abundante,positive,u,85
+do,朵,duǒ,flor (clasificador),positive,f,70
+du,杜,dù,abedul / apellido,neutral,u,75
+du,笃,dǔ,sincero / fiel,positive,u,70
+fa,法,fǎ,ley / método,neutral,u,75
+fa,发,fā,prosperar,positive,u,80
+fe,斐,fěi,elegante / brillante,positive,u,80
+fe,费,fèi,gasto / apellido,neutral,u,60
+fe,废,fèi,inútil / desecho,avoid,u,99
+fi,菲,fēi,fragante,positive,f,85
+fi,飞,fēi,volar,positive,u,75
+fo,福,fú,fortuna / felicidad,positive,u,90
+fo,弗,fú,no (arcaico),neutral,u,60
+fu,夫,fū,hombre / marido,neutral,m,75
+fu,富,fù,rico / abundante,positive,u,80
+ga,加,jiā,añadir / aumentar,positive,u,80
+ga,嘉,jiā,excelente,positive,u,75
+ge,格,gé,norma / carácter,neutral,u,80
+ge,盖,gài,cubrir,neutral,u,65
+gi,吉,jí,auspicioso,positive,u,90
+gi,基,jī,base,positive,u,70
+go,戈,gē,lanza,neutral,m,75
+go,哥,gē,hermano mayor,positive,m,70
+gu,古,gǔ,antiguo,neutral,u,75
+gu,谷,gǔ,valle / grano,positive,u,70
+gu,孤,gū,solitario,avoid,u,99
+ha,哈,hā,ja / apellido,neutral,u,70
+ha,汉,hàn,Han / hombre,neutral,m,65
+he,赫,hè,ilustre / brillante,positive,m,85
+he,何,hé,qué / apellido,neutral,u,60
+hi,希,xī,esperanza,positive,u,90
+hi,西,xī,oeste,neutral,u,65
+ho,霍,huò,repentino / apellido,neutral,m,80
+ho,荷,hé,loto,positive,f,70
+hu,胡,hú,apellido / barba,neutral,u,75
+hu,虎,hǔ,tigre,positive,m,70
+hu,瑚,hú,coral,positive,f,70
+la,拉,lā,tirar,neutral,u,80
+la,兰,lán,orquídea,positive,f,80
+le,莱,lái,artemisa,neutral,u,75
+le,勒,lè,brida,neutral,u,65
+li,利,lì,beneficio / agudo,positive,u,80
+li,丽,lì,hermosa,positive,f,85
+li,莉,lì,jazmín,positive,f,85
+lo,洛,luò,río Luo,neutral,u,75
+lo,罗,luó,gasa / apellido,neutral,u,70
+lu,卢,lú,apellido,neutral,u,70
+lu,露,lù,rocío,positive,f,75
+lu,路,lù,camino,positive,u,65
+ma,马,mǎ,caballo,positive,u,80
+ma,玛,mǎ,ágata,positive,f,80
+me,梅,méi,ciruelo en flor,positive,f,80
+me,美,měi,bello,positive,u,75
+mi,米,mǐ,arroz,neutral,u,80
+mi,蜜,mì,miel,positive,f,70
+mo,莫,mò,no / apellido,neutral,u,75
+mo,墨,mò,tinta,neutral,u,70
+mo,魔,mó,demonio,avoid,u,99
+mu,穆,mù,solemne,positive,u,85
+mu,慕,mù,admirar,positive,u,75
+na,娜,nà,grácil,positive,f,85
+na,纳,nà,aceptar,positive,u,70
+ne,内,nèi,interior,neutral,u,75
+ne,奈,nài,soportar,neutral,u,65
+ni,尼,ní,apellido / monja,neutral,u,80
+ni,妮,nī,muchacha,positive,f,75
+no,诺,nuò,promesa,positive,u,85
+no,挪,nuó,mover,neutral,u,60
+nu,努,nǔ,esforzarse,positive,u,80
+nu,奴,nú,esclavo,avoid,u,99
+nie,涅,niè,tinte negro,neutral,u,60
+nie,聂,niè,apellido,neutral,u,60
+niu,纽,niǔ,botón / eje,neutral,u,70
+niu,钮,niǔ,botón,neutral,u,60
+pa,帕,pà,pañuelo,neutral,u,75
+pa,潘,pān,apellido,neutral,u,70
+pe,佩,pèi,admirar / llevar,positive,u,85
+pe,裴,péi,apellido,neutral,u,70
+pi,皮,pí,piel,neutral,u,75
+pi,琵,pí,laúd (琵琶),neutral,u,60
+po,波,bō,ola,neutral,u,75
+po,珀,pò,ámbar,positive,u,70
+po,破,pò,roto,avoid,u,99
+pu,普,pǔ,general / universal,positive,u,80
+pu,浦,pǔ,orilla,neutral,u,70
+ra,拉,lā,tirar,neutral,u,75
+ra,兰,lán,orquídea,positive,f,70
+re,雷,léi,trueno,neutral,m,75
+re,蕾,lěi,capullo,positive,f,75
+ri,里,lǐ,interior / aldea,neutral,u,80
+ri,莉,lì,jazmín,positive,f,80
+ro,罗,luó,gasa / apellido,neutral,u,80
+ro,洛,luò,río Luo,neutral,u,70
+ru,鲁,lǔ,apellido / torpe,neutral,u,75
+ru,露,lù,rocío,positive,f,70
+sa,萨,sà,bodisatva,neutral,u,80
+sa,莎,shā,juncia,neutral,f,70
+se,塞,sè,frontera,neutral,u,80
+se,瑟,sè,cítara,positive,u,70
+si,西,xī,oeste,neutral,u,80
+si,思,sī,pensar / añorar,positive,u,75
+si,死,sǐ,muerte,avoid,u,99
+so,索,suǒ,cuerda / buscar,neutral,u,80
+so,梭,suō,lanzadera,neutral,u,65
+su,苏,sū,revivir / apellido,positive,u,85
+su,素,sù,sencillo / puro,positive,u,75
+ta,塔,tǎ,torre,neutral,u,80
+te,特,tè,especial,positive,u,85
+ti,蒂,dì,tallo de flor,positive,f,80
+ti,提,tí,levantar / sostener,neutral,u,70
+to,托,tuō,sostener / confiar,neutral,u,80
+to,陀,tuó,pendiente,neutral,u,60
+tu,图,tú,imagen / plan,positive,u,80
+tu,杜,dù,abedul / apellido,neutral,u,60
+wa,瓦,wǎ,teja,neutral,u,70
+wa,娃,wá,niño,positive,u,65
+we,维,wéi,mantener,positive,u,80
+we,韦,wéi,apellido,neutral,u,70
+wi,威,wēi,poder / prestigio,positive,m,85
+wi,薇,wēi,rosa silvestre,positive,f,80
+wo,沃,wò,fértil,positive,u,80
+wo,渥,wò,húmedo / generoso,neutral,u,60
+ya,雅,yǎ,elegante,positive,u,85
+ya,亚,yà,Asia / secundario,neutral,u,75
+ye,耶,yē,Jesús (耶稣),neutral,u,70
+ye,叶,yè,hoja,positive,u,75
+yi,伊,yī,ese / ella,neutral,u,80
+yi,怡,yí,alegre,positive,f,80
+yi,易,yì,fácil / cambiar,neutral,u,60
+yo,约,yuē,promesa / cita,neutral,u,80
+yu,玉,yù,jade,positive,u,90
+yu,宇,yǔ,cosmos,positive,u,80
+yu,尤,yóu,especialmente,neutral,u,70
+cha,查,chá,investigar,neutral,u,75
+cha,恰,qià,justo / apropiado,neutral,u,70
+che,切,qiè,cortar / ansioso,neutral,u,70
+che,彻,chè,penetrar,neutral,u,65
+chi,奇,qí,extraordinario,positive,u,85
+chi,琪,qí,jade,positive,f,80
+cho,乔,qiáo,alto / apellido,positive,u,80
+cho,巧,qiǎo,hábil,positive,u,70
+chu,丘,qiū,colina / apellido,neutral,u,75
+chu,楚,chǔ,claro / apellido,positive,u,75
+an,安,ān,paz,positive,u,90
+en,恩,ēn,favor / gracia,positive,u,85
+in,因,yīn,causa,neutral,u,75
+in,茵,yīn,hierba verde,positive,f,70
+man,曼,màn,grácil,positive,u,80
+nan,南,nán,sur,neutral,u,80
+lan,兰,lán,orquídea,positive,f,85
+ran,兰,lán,orquídea,positive,f,75
+tan,坦,tǎn,franco,positive,u,75
+dan,丹,dān,cinabrio / rojo,positive,u,80
+san,桑,sāng,morera,neutral,u,70
+kan,坎,kǎn,zanja,neutral,u,55
+ban,班,bān,clase / turno,neutral,u,75
+pan,潘,pān,apellido,neutral,u,70
+fan,范,fàn,modelo,positive,u,70
+gan,甘,gān,dulce,positive,u,75
+men,门,mén,puerta,neutral,u,70
+len,伦,lún,ética / orden,positive,u,80
+ren,伦,lún,ética / orden,positive,u,70
+ten,滕,téng,apellido,neutral,u,60
+den,登,dēng,ascender,positive,u,75
+sen,森,sēn,bosque,positive,u,80
+ben,本,běn,raíz / origen,positive,u,75
+fen,芬,fēn,fragancia,positive,f,80
+min,敏,mǐn,ágil,positive,u,80
+lin,林,lín,bosque,positive,u,85
+bin,宾,bīn,huésped,positive,u,75
+kin,金,jīn,oro,positive,u,85
+din,丁,dīng,varón / clavo,neutral,u,60
+tin,廷,tíng,corte / patio,neutral,u,65
+nin,宁,níng,sereno,positive,u,80
+pin,品,pǐn,calidad,positive,u,70
+mon,蒙,méng,cubrir / Mongolia,neutral,u,70
+don,东,dōng,este,positive,u,70
+ton,通,tōng,comunicar,positive,u,70
+lon,隆,lóng,próspero,positive,u,80
+son,松,sōng,pino,positive,u,75
+b,布,bù,tela,neutral,u,80
+b,博,bó,vasto,positive,u,70
+ch,奇,qí,extraordinario,positive,u,80
+ch,琪,qí,jade,positive,f,70
+d,德,dé,virtud,positive,u,85
+d,得,dé,obtener,positive,u,70
+f,夫,fū,hombre / marido,neutral,u,75
+f,弗,fú,no (arcaico),neutral,u,60
+g,格,gé,norma,neutral,u,80
+g,戈,gē,lanza,neutral,u,65
+k,克,kè,vencer,positive,u,85
+l,尔,ěr,tú (arcaico),neutral,u,80
+l,勒,lè,brida,neutral,u,65
+m,姆,mǔ,niñera,neutral,u,75
+m,穆,mù,solemne,positive,u,70
+n,恩,ēn,favor / gracia,positive,u,85
+p,普,pǔ,general / universal,positive,u,80
+p,浦,pǔ,orilla,neutral,u,65
+r,尔,ěr,tú (arcaico),neutral,u,80
+r,勒,lè,brida,neutral,u,65
+s,斯,sī,este,neutral,u,85
+s,丝,sī,seda,positive,f,75
+t,特,tè,especial,positive,u,85
