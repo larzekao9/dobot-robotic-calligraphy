@@ -104,6 +104,10 @@ export function PreviewPage({ params }: { params: URLSearchParams }) {
             >
               <option value="A4">A4 (210 × 297 mm)</option>
               <option value="A5">A5 (148 × 210 mm)</option>
+              <option value="carta">Carta (216 × 279 mm)</option>
+              <option value="media_carta">Media Carta (140 × 216 mm)</option>
+              <option value="oficio">Oficio (216 × 330 mm)</option>
+              <option value="medio_oficio">Mitad de Oficio (165 × 216 mm)</option>
               <option value="custom">Personalizado</option>
             </select>
           </label>

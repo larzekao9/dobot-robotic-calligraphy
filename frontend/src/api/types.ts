@@ -36,7 +36,7 @@ export interface Conversion {
 export type ScriptKey = "zh" | "ja";
 
 export interface Layout {
-  paper: "A4" | "A5" | "custom";
+  paper: "A4" | "A5" | "carta" | "media_carta" | "oficio" | "medio_oficio" | "custom";
   width_mm: number | null;
   height_mm: number | null;
   landscape: boolean;

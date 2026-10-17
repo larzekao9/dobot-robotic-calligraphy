@@ -6,13 +6,22 @@ from pydantic import BaseModel, Field, model_validator
 
 from app.models import JobStatus, Script
 
-PAPERS = {"A4": (210.0, 297.0), "A5": (148.0, 210.0)}
+PAPERS = {
+    "A4": (210.0, 297.0),
+    "A5": (148.0, 210.0),
+    "carta": (215.9, 279.4),
+    "media_carta": (139.7, 215.9),
+    "oficio": (215.9, 330.0),
+    "medio_oficio": (165.0, 215.9),
+}
 
 
 class Layout(BaseModel):
     """Disposición sobre la cartulina. Todas las medidas en milímetros, origen arriba-izquierda."""
 
-    paper: Literal["A4", "A5", "custom"] = "A4"
+    paper: Literal[
+        "A4", "A5", "carta", "media_carta", "oficio", "medio_oficio", "custom"
+    ] = "A4"
     width_mm: float | None = Field(default=None, ge=50, le=1000)  # solo papel personalizado
     height_mm: float | None = Field(default=None, ge=50, le=1000)
     landscape: bool = False
